@@ -15,7 +15,7 @@ namespace portal.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "What is the SDK and why should you use it?";
 
             return View();
         }
